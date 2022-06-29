@@ -154,18 +154,6 @@
       "contributions": [
         "test"
       ]
-    },
-    {
-      "login": "skirianov",
-      "name": "Sergii Kirianov",
-      "avatar_url": "https://avatars.githubusercontent.com/u/74229951?v=4",
-      "profile": "https://github.com/skirianov",
-      "contributions": [
-        "content",
-        "example",
-        "blog",
-        "tutorial"
-      ]
     }
   ],
   "contributorsPerLine": 7,
