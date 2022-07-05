@@ -14,3 +14,4 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           working-directory: docs-e2e-testing
+          config-file: cypress.config.ts
